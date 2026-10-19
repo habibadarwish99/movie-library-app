@@ -1,4 +1,4 @@
-# Movie Library — Section 3
+# Movie Library 
 
 A Flutter movie catalog with local poster artwork, live title and genre search, list and two-column grid layouts, and a shared tappable views badge.
 
